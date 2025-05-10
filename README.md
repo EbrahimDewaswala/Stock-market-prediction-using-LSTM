@@ -48,7 +48,7 @@ The model achieved an accuracy of **98%** in forecasting future stock prices, ou
 ```plaintext
 📦Stock-Market-Prediction-LSTM
 ├── Sample-Input-Data/      # Data files for processing
-├── notebook/              # Jupyter notebooks for development and testing
+├── notebook/               # Jupyter notebooks for development and testing
 ├── src/                    # Source code and LSTM implementation
 └── README.md               # Project overview
 ```
@@ -67,11 +67,11 @@ The model achieved an accuracy of **98%** in forecasting future stock prices, ou
 
 If you use this work in your research or publication, please cite the corresponding paper:
 
-**Author:** Ebrahim Yusuf Dewaswala
-**Title:** Forecasting Stock Prices Using Long Short-Term Memory (LSTM) Networks: A Comprehensive Analysis
-**Journal:** *Journal of Technology*, 2025
-**Url:** https://journaloftechnology.org/volume-13-issue-4-2025/
-DOI:18.15001/JOT.2025/V13I4.25.1403
+* **Author:** Ebrahim Yusuf Dewaswala
+* **Title:** Forecasting Stock Prices Using Long Short-Term Memory (LSTM) Networks: A Comprehensive Analysis
+* **Journal:** *Journal of Technology*, 2025
+* **Url:** https://journaloftechnology.org/volume-13-issue-4-2025/
+* DOI:18.15001/JOT.2025/V13I4.25.1403
 ---
 
 ## 🔮 Future Work
